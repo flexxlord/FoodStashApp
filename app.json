@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "foodstash",
+    "icon": "./assets/icon.png",
+    "version": "1.2.0",
+    "slug": "foodstash",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FA4A0C"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "hooks": {
+      "postPublish": [
+        {
+          "file": "sentry-expo/upload-sourcemaps",
+          "config": {
+            "organization": "foodstash",
+            "project": "foodstash",
+            "authToken": "291c8ce11d1f4a068411680728e30b38ceedced3522848198dafe89f88cbefac"
+          }
+        }
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.foodstashapp.foodstash",
+      "buildNumber": "1.2.0"
+    },
+    "android": {
+      "package": "com.foodstashapp.foodstash",
+      "versionCode": 4,
+      "icon": "./assets/icon.png",
+      "adaptiveIcon" : {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundImage": "./assets/background.png"
+      },
+      "useNextNotificationsApi": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

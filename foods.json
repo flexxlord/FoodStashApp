@@ -1,0 +1,768 @@
+[
+    {
+        "name": "apple",
+        "category": "fruit",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Separate out fruit which is ripening more quickly than the others.                                               2. Store away from bananas & citrus.                                                           3. Winkly or soft apples can be used up in smoothies                                  4. For any bruised apples: cut off any brown parts and chop the rest into wedges for a snack, or grate the remaining apple into salads.",
+        "expiration": "4 to 6 weeks",
+        "ripen": "Usually ripe when picked"
+    },
+    {
+        "name": "apricot",
+        "category": "fruit",
+        "proper storage": "The counter",
+        "tips": "1. Never refrigerate unripe apricots, as it can produce a mealy texture.                                                                              2. Once ripe,  it can be refrigerated but quality will deterioate",
+        "expiration": "2 to 5 days",
+        "ripen": "1. Put apricot into a paper bag, seal it, and wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Color: deep golden orange                                     2. Feel:  firm with just a tiny amount of give when you gently squeeze them."
+    },
+    {
+        "name": "arugula",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Use a dry paper towel to absorb moisture, but it may dehydrate it if kept more days.                                      2. Trim and soak in lukewarm water for 10-15 minutes to rehydrate, pat or spin dry and return to the refrigerator to crisp before using.",
+        "expiration": "3 to 7 days"
+    },
+    {
+        "name": "asparagus",
+        "category": "vegetable",
+        "proper storage": "The fridge",
+        "tips": "1. Trim approximately 1/2 inch from the bottom, and then stored upright in a glass or bowl filled with enough water to cover stems",
+        "expiration": "3 to 4 days "
+    },
+    {
+        "name": "avocado",
+        "category": "fruit",
+        "proper storage": "The counter or fridge",
+        "tips": "1. After ripen or cut, put in the fridge                                                                                    2. To store half an avocado, leave the pit in the unused half, cover loosely with plastic wrap and refrigerate.                                         3. Surface browning is\nnatural and can be eaten or removed when ready to use.",
+        "expiration": "3 to 4 days",
+        "ripen": "1. Put avocados into a paper bag, seal it, and wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Color: dark green to nearly black.                                                                                                            2. Feel : should yield to gentle pressure without leaving indentations or feeling mushy with a bumpy texture"
+    },
+    {
+        "name": "banana",
+        "category": "fruit",
+        "proper storage": "On the counter at room temperature",
+        "tips": "1. Always keep bananas separate from other fruits unless you want the other fruit to ripen quickly.",
+        "expiration": "1 week",
+        "ripen": "1. Put bananas into a paper bag, seal it, and wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Color: yellow with hints of brown."
+    },
+    {
+        "name": "basil",
+        "category": "vegetable",
+        "proper storage": "On the counter",
+        "tips": "1. Use as soon as possible as highly perishable.                                                        2. Trim ends and store upright in a glass of water on the counter, tops covered loosely by a plastic bag.                        3. Unused basil can be pureed with a little water and frozen in ice cube trays to preserve for future use.",
+        "expiration": "5 days"
+    },
+    {
+        "name": "lima beans",
+        "category": "vegetable",
+        "proper storage": "The fridge",
+        "tips": "1. Wrap in a dry paper towel and pack loosely in a plastic or paper bag then store.",
+        "expiration": "3 to 5 days"
+    },
+    {
+        "name": "fava beans",
+        "category": "vegetable",
+        "proper storage": "The fridge",
+        "tips": "1. Wrap in a dry paper towel and pack loosely in a plastic or paper bag then store.",
+        "expiration": "3 to 5 days"
+    },
+    {
+        "name": "green beans",
+        "category": "vegetable",
+        "proper storage": "The fridge",
+        "tips": "1. Wrap in a dry paper towel and pack loosely in a plastic or paper bag then store.",
+        "expiration": "3 to 5 days"
+    },
+    {
+        "name": "beet",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Store in a loose, open plastic bag with a damp (not wet) paper towel inside to maintain humidity.                                 2. Always remove the greens before storing to prevent dehydration of the beet.                                                                     3. If roots are soft or dehydrated, trim ends and soak in lukewarm water for 10-15 minutes before using.",
+        "expiration": "1 to 2 weeks"
+    },
+    {
+        "name": "strawberries",
+        "category": "fruit",
+        "proper storage": "The fridge - coolest part",
+        "tips": "1. Rinse just before using                                               2. Can store in the freezer in a tightly sealed containers.",
+        "expiration": "3 to 6 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Color: bright red color, a natural shine, and fresh looking greens."
+    },
+    {
+        "name": "blueberries",
+        "category": "fruit",
+        "proper storage": "The fridge - coolest part",
+        "tips": "1. Rinse just before using                                               2. Can store in the freezer in a tightly sealed containers.",
+        "expiration": "3 to 6 days",
+        "ripen": "1. Put blueberries into a paper bag, seal it, and wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Color: Deep purple blue to blue-black Ripe blueberries will be firm                                     2. Feel: firm, smooth skin that has a silvery sheen.                                                                      3. Shape: plump"
+    },
+    {
+        "name": "raspberries",
+        "category": "fruit",
+        "proper storage": "The fridge - coolest part",
+        "tips": "1. Rinse just before using                                               2. Can store in the freezer in a tightly sealed containers.",
+        "expiration": "3 to 6 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Color: deep, rich color                                  2. Shape: plump "
+    },
+    {
+        "name": "blackberries",
+        "category": "fruit",
+        "proper storage": "The fridge - coolest part",
+        "tips": "1. Rinse just before using                                               2. Can store in the freezer in a tightly sealed containers.",
+        "expiration": "3 to 6 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Color: deep, rich  black color                                  2. Shape: plump "
+    },
+    {
+        "name": "broccoli",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Wrap in a dry paper towel & store in an open plastic bag                                  2. Chop & blanch broccoli for 3 minutes before freezing to retain the flavour.",
+        "expiration": "3 to 5 days"
+    },
+    {
+        "name": "cabbage",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Wrap loosely in a paper towel & store in an open plastic bag                                      2. Just remove outer leaves before use if shriveled or damaged.",
+        "expiration": "1 to 2 weeks"
+    },
+    {
+        "name": "carrots",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Store in a loose, open plastic bag with a damp (not wet) paper towel inside to maintain humidity.                                 2. Always remove the greens before storing to prevent dehydration of the carrot.                                                                     3. If roots are soft or dehydrated, trim ends and soak in lukewarm water for 10-15 minutes before using.",
+        "expiration": "2 to 3 weeks"
+    },
+    {
+        "name": "cauliflower",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Wrap in a dry paper towel & store in an open plastic bag.                                                                                            2. Freshen up cauliflower by placing the stem in a jar or glass of water in the fridge.",
+        "expiration": "3 to 5 days"
+    },
+    {
+        "name": "celery",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Store in original plastic sleeve  that it comes in",
+        "expiration": "1 to 2 weeks"
+    },
+    {
+        "name": "chard",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Store in a dry paper towel inside a loose plastic bag                                                                                                             2. Wilted chard can be rehydrated by trimming the ends & soaking in lukewarm water for 10-15 minutes.",
+        "expiration": "1 to 2 weeks"
+    },
+    {
+        "name": "cherries",
+        "category": "fruit",
+        "proper storage": "The fridge",
+        "tips": "1. Store in a loose plastic bag",
+        "expiration": "2 to 3 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Color: green stem - Stemless cherries: shiny dark red                                                    2. Feel: firm                                                                                               3. Shape: plump "
+    },
+    {
+        "name": "cilantro",
+        "category": "vegetable",
+        "proper storage": "The fridge",
+        "tips": "1. Trim 1/4 inch and stored upright in a glass of water.                                   2. Do not wash until ready to use",
+        "expiration": "2 to 3 weeks"
+    },
+    {
+        "name": "lemon",
+        "category": "fruit",
+        "proper storage": "On the counter ",
+        "tips": "1. Store away from light                                   2. If storing for longer, then refrigerate in a sealed ziplock bag",
+        "expiration": "10 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Color: bright yellow with glossiness to its skin.                                                                                 2. Feel: soft but not squishy & wrinkly                                                        3. Size: about 2-3 inches"
+    },
+    {
+        "name": "lime",
+        "category": "fruit",
+        "proper storage": "On the counter ",
+        "tips": "1. Store away from light                                   2. If storing for longer, then refrigerate",
+        "expiration": "10 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Color : from dark green to light green or yellow, depending on the variety                                                                                          2. Feel : smooth texture & slightly give under pressure"
+    },
+    {
+        "name": "grapefruit",
+        "category": "fruit",
+        "proper storage": "On the counter ",
+        "tips": "1. Store away from light                                   2. If storing for longer, then refrigerate in a mesh bag",
+        "expiration": "10 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Color: no green patches                                                                                 2. Feel: smooth texture                                                                            3. Shape: not too round: Some have oval shapes, flat tops & bottoms                                                            3. Weight: heavy"
+    },
+    {
+        "name": "orange",
+        "category": "fruit",
+        "proper storage": "On the counter ",
+        "tips": "1. Store away from light                                   2. If storing for longer, then refrigerate in a mesh bag",
+        "expiration": "10 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Feel: shiny, thin skin & tiny amount of give when you gently squeeze them.."
+    },
+    {
+        "name": "clementine",
+        "category": "fruit",
+        "proper storage": "On the counter ",
+        "tips": "1. Store away from light                                   2. If storing for longer, then refrigerate in a mesh bag",
+        "expiration": "10 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Color: vibrant orange and little to no blemish                                                                       2. Feel: firm, but not too firm with oily aspect to the peel & loose skin                                                                           3. Weight: heavy (means juicer)                                         4. Smell: fresh, bright, and citrusy. If you can hold it an arm's length away and still get a good whiff                                             "
+    },
+    {
+        "name": "tangerine",
+        "category": "fruit",
+        "proper storage": "On the counter ",
+        "tips": "1. Store away from light                                   2. If storing for longer, then refrigerate in a mesh bag",
+        "expiration": "10 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Feel: loose, slightly moist peel                                           2. Weight: heavy                                                                         3. Smell: citrusy and sweet"
+    },
+    {
+        "name": "coconuts",
+        "category": "fruit",
+        "proper storage": "On the counter",
+        "tips": "1. Never refrigerate unless ripe or cut                                                                                           ",
+        "expiration": "7 days"
+    },
+    {
+        "name": "corn",
+        "category": "fruit",
+        "proper storage": "The fridge",
+        "tips": "1. Store in its husk in an open container or on a shelf in the fridge.                                                                                                                   2. If already husked, wrap corn loosely in a paper towel and store in an open plastic bag",
+        "expiration": "1 to 2 days",
+        "determine ripeness": "1. Color: bright green & tightly wrapped husk with brown tassels on top                                                              2. Feel:  ever-so-slightly sticky tassels on top. Also puncture a kernel: if the water that escapes is translucent rather than watery, the corn is ready"
+    },
+    {
+        "name": "cucumbers",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Wrap loosely in a paper towel &  keep with other vegetables                                                                                                                           2. Keep away from fruits like apples                                                                                                                                                                   3. A cut cucumber can be wrapped in plastic or kept in a closed container.                                                                                                         4. Freshen up cucumber by putting the stalk end in a jar or glass of water in the fridge.",
+        "expiration": "4 to 6 days"
+    },
+    {
+        "name": "dates",
+        "category": "dry fruits",
+        "proper storage": "The fridge",
+        "tips": "1. Can be stored outside of refrigeration but will develop crystallized date sugar underneath their skins. This is normal but changes the texture.",
+        "expiration": "1 year"
+    },
+    {
+        "name": "eggplant",
+        "category": "vegetable",
+        "proper storage": "On the counter",
+        "tips": "1. Store in a cool, dry place with circulating air.                                                                                                                                                2. Do not refrigerate unless cut.                                                                                                                                                                        3. Cut eggplant will brown slightly but okay to eat & put in the least cool section of the fridge",
+        "expiration": "3 to 5 days"
+    },
+    {
+        "name": "fennel",
+        "category": "vegetable",
+        "proper storage": "The fridge",
+        "tips": "1. If using the fronds part, store upright in water as a fresh herb.                                            2, Store the bulb part wrapped in a paper towel inside a loose plastic bag.                                                                                         3. Fennel bulb can be rehydrated like celery: trim and soak in lukewarm water for 10-15 minutes until firm"
+    },
+    {
+        "name": "figs",
+        "category": "dry fruits",
+        "proper storage": "The fridge",
+        "tips": "1, Highly perishable.                                          2. When ready to eat, bring up to room temperature on the counter for 10-15 minutes for best flavor"
+    },
+    {
+        "name": "garlic",
+        "category": "vegetable",
+        "proper storage": "On the counter",
+        "tips": "1. Store in cool, dry, dark place with some air flow.                                                                          2. Separate them so their flavors are not compromised by one another.                                                            3. If they sprout, remove green shoots and use remaining portion.",
+        "expiration": "1 month"
+    },
+    {
+        "name": "ginger",
+        "category": "vegetable",
+        "proper storage": "The fridge",
+        "tips": "1. Place in a plastic bag with a paper towel inserted to absorb moisture.                                                                                   2. Can grate it & store in the freezer as well ",
+        "expiration": "1 to 3 weeks"
+    },
+    {
+        "name": "grapes",
+        "category": "fruit",
+        "proper storage": "The fridge",
+        "tips": "1. Place in a loose plastic bag, with a paper towel inserted to absorb moisture.",
+        "expiration": "7 days",
+        "ripen": "Do not ripen after picking so buy them ripe"
+    },
+    {
+        "name": "scallions",
+        "category": "vegetable",
+        "proper storage": "The fridge",
+        "tips": "1. Place in a loose plastic bag, with a paper towel inserted to absorb moisture."
+    },
+    {
+        "name": "guava",
+        "category": "fruit",
+        "proper storage": "On counter at room temperature ",
+        "tips": "1. Only place in the fridge after fully ripen or has been cut",
+        "expiration": "2 to 4 days",
+        "ripen": "1. Put guava into a paper bag, seal it, and wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Color: more yellowish-green color than light green                                                                    2. Feel: softer"
+    },
+    {
+        "name": "horseradish",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Store in a loose, open plastic bag with a damp (not wet) paper towel inside to maintain humidity.                                 2. Always remove the greens before storing to prevent dehydration                                                                     3. If roots are soft or dehydrated, trim ends and soak in lukewarm water for 10-15 minutes before using."
+    },
+    {
+        "name": "kale",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Wrap in a dry paper towel in a loose plastic bag",
+        "expiration": "3 to 5 days"
+    },
+    {
+        "name": "kohlrabi",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Store in a loose, open plastic bag with a damp (not wet) paper towel inside to maintain humidity.                                 2. Always remove the greens before storing to prevent dehydration                                                                     3. If roots are soft or dehydrated, trim ends and soak in lukewarm water for 10-15 minutes before using.",
+        "expiration": "7 days"
+    },
+    {
+        "name": "lettuce",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Use a dry paper towel to absorb moisture, but it may dehydrate it if kept more days.                                      2. Trim and soak in lukewarm water for 10-15 minutes to rehydrate, pat or spin dry and return to the refrigerator to crisp before using.",
+        "expiration": "1 to 2 weeks"
+    },
+    {
+        "name": "kiwi",
+        "category": "fruit",
+        "proper storage": "On counter at room temperature",
+        "tips": "1. Place in fridge after fully ripen",
+        "expiration": "3 to 6 days",
+        "ripen": "1. Put kiwi into a paper bag, seal it, & wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Feel: gives to gentle pressure                                        2. Look:  free of soft spots, cuts and bruises"
+    },
+    {
+        "name": "mangos",
+        "category": "fruit",
+        "proper storage": "On counter at room temperature",
+        "tips": "1. Place in fridge after fully ripen or cut",
+        "expiration": "3 to 5 days",
+        "ripen": "1. Put mangos into a paper bag, seal it, & wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag       3. Place the mango in a bowl with rice, making sure the mango is completely covered. It can over ripen the mango, so check on it every 6 to 12 hours.",
+        "determine ripeness": "1. Feel: slightly soft                                                                  2. Smell: strong, sweet smell                                                   3. Shape: rounded.                                                                 4. Look:  slightly bruised or has a few brownish specks (ok to eat)"
+    },
+    {
+        "name": "watermelon",
+        "category": "fruit",
+        "proper storage": "On the counter",
+        "tips": "1. Store cut melons cut-side down on a plate or with cut side wrapped loosely in plastic wrap to prevent dehydration.",
+        "expiration": "2 weeks",
+        "ripen": "1. Put watermelon into a paper bag, seal it, & wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Weight: heavy for its size (it’s juicy)                                       2. Sound: give it a solid tap, it will sound hollow, like a drum, inside."
+    },
+    {
+        "name": "cantaloupe",
+        "category": "fruit",
+        "proper storage": "On the counter",
+        "tips": "1. Store cut melons cut-side down on a plate or with cut side wrapped loosely in plastic wrap to prevent dehydration.",
+        "expiration": "3 weeks",
+        "ripen": "1. Put cantaloupe into a paper bag, seal it, & wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Smell: strong smell of cantaloupe."
+    },
+    {
+        "name": "mushrooms",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Keep them dry in a paper bag.                      2. If in a closed container, puncture the plastic well to allow for air flow. Wet mushrooms can grow dangerous bacteria ",
+        "expiration": "3 to 7 days"
+    },
+    {
+        "name": "okra",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Place in a paper towel and store in a loose paper or plastic bag",
+        "expiration": "2 to 3 days"
+    },
+    {
+        "name": "onion",
+        "category": "vegetable",
+        "proper storage": "On the counter",
+        "tips": "1. Store in cool, dry, dark place with some air flow.                                                                          2. Separate them so their flavors are not compromised by one another.                                                            3. If they sprout, remove green shoots and use remaining portion.",
+        "expiration": "1 month"
+    },
+    {
+        "name": "papaya",
+        "category": "fruit",
+        "proper storage": "On counter at room temperature",
+        "tips": "1. Place in fridge after fully ripen or cut",
+        "expiration": "3 to 5 days",
+        "ripen": "1. Put papaya into a paper bag, seal it, and wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Color: yellow                                                                           2. Shape: pear-shaped                                                               3. Smell: sweet smell near the stem"
+    },
+    {
+        "name": "parsley",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Trim & store upright in a glass of water",
+        "expiration": "2 to 3 days"
+    },
+    {
+        "name": "parsnips",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Store in a loose, open plastic bag with a damp (not wet) paper towel inside to maintain humidity.                                 2. Always remove the greens before storing to prevent dehydration                                                                     3. If roots are soft or dehydrated, trim ends and soak in lukewarm water for 10-15 minutes before using.",
+        "expiration": "2 to 3 weeks"
+    },
+    {
+        "name": "peaches",
+        "category": "fruit",
+        "proper storage": "On the counter",
+        "tips": "1. Never refrigerate unripe peaches, as it can produce a “mealy” texture.                                                                                     2. Once ripe, can be refrigerated for a day or two but quality will deteriorate",
+        "expiration": "1 to 2 days",
+        "ripen": "1. Put peaches into a paper bag, seal it, and wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Color: golden yellow by the stem                                          2. Feel: sliightly soft but not wrinkly skin                                    3. Smell: like a peach"
+    },
+    {
+        "name": "pears",
+        "category": "fruit",
+        "proper storage": "On the counter at room temperature ",
+        "tips": "1. Place in fridge after fully ripen or cut",
+        "expiration": "1 to 2 days",
+        "ripen": "1. Put pears into a paper bag, seal it, and wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Feel: when the stem-end of the fruit has a little give to the touch"
+    },
+    {
+        "name": "peas",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Wrap in a dry paper towel & store in a loose paper or plastic bag",
+        "expiration": "3 to 5 days"
+    },
+    {
+        "name": "pepper",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Store in a plastic bag with paper towel inside                                                          2. Away from other vegetables ",
+        "expiration": "4 to 14 days"
+    },
+    {
+        "name": "red bell pepper",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Store in a plastic bag with paper towel inside                                                          2. Away from other vegetables ",
+        "expiration": "4 to 14 days"
+    },
+    {
+        "name": "yellow bell pepper",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Store in a plastic bag with paper towel inside                                                          2. Away from other vegetables ",
+        "expiration": "4 to 14 days"
+    },
+    {
+        "name": "green bell pepper",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Store in a plastic bag with paper towel inside                                                          2. Away from other vegetables ",
+        "expiration": "4 to 14 days"
+    },
+    {
+        "name": "pineapple",
+        "category": "fruit",
+        "proper storage": "On counter at room temperature ",
+        "tips": "1. Place in fridge after fully ripen or cut",
+        "expiration": "1 to 2 days",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Color : the yellow                                                                       2. Feel: slightly soft                                                                  3. Smell: the base should smell like fruit- sweet (if smells  a bit more like vinegar than sweet, that pineapple is past its prime)"
+    },
+    {
+        "name": "plums",
+        "category": "fruit",
+        "proper storage": "On the counter",
+        "tips": "1. Never refrigerate unripe plums, as it can produce a “mealy” texture.                                       2. Once ripe, can be refrigerated for a day or two but quality will deteriorate",
+        "expiration": "1 to 2 days",
+        "ripen": "1. Put plums into a paper bag, seal it, and wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag ",
+        "determine ripeness": "1. Color: deep, even color, whichever variety they are                                                                                   2. Feel: gives to gentle pressure, smooth and free to wrinkles skin                                                                       3. Smell: sweet, fruity smell                                                      4. Weight: little heavy for its size "
+    },
+    {
+        "name": "pomegranate",
+        "category": "fruit",
+        "proper storage": "On countertop or fridge",
+        "tips": "1. If placed in the refrigerator, keep wrapped in a paper towel to prevent spoilage.                                                                        2. Pomegranates will keep for a long time and are often edible even if the exterior is hard and dry.",
+        "expiration": "1 to 3 months",
+        "ripen": "Do not ripen after picking so buy them ripe [see determine ripeness]",
+        "determine ripeness": "1. Color: brightly colored                                                         2. Size: large                                                                             3. Feel: unbroken skin                                                              ** For the best flavor"
+    },
+    {
+        "name": "potato",
+        "category": "vegetable",
+        "proper storage": "In the pantry",
+        "tips": "1. Store in cool, dry, dark cabinet with some air flow.                                                                                                                                          2. Any sprouts can be removed and use the potato                                                                                                                                            3. Do not expose potatoes to light as they develop a slightly toxic compound - seen as a green tint on the exterior of the potato",
+        "expiration": "1 to 2 months"
+    },
+    {
+        "name": "radishes",
+        "category": "vegetable",
+        "proper storage": "The fridge- crisp drawer",
+        "tips": "1. Store in a loose, open plastic bag with a damp (not wet) paper towel inside to maintain humidity.                                 2. Always remove the greens before storing to prevent dehydration                                                                     3. If roots are soft or dehydrated, trim ends and soak in lukewarm water for 10-15 minutes before using.",
+        "expiration": "10 to 14 days"
+    },
+    {
+        "name": "rhubarb",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Wrap in a dry paper towel & store in a loose paper or plastic bag",
+        "expiration": "3 to 7 days"
+    },
+    {
+        "name": "spinach",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Use a dry paper towel to absorb moisture, but it may dehydrate it if kept more days.                                      2. Trim and soak in lukewarm water for 10-15 minutes to rehydrate, pat or spin dry and return to the refrigerator to crisp before using.",
+        "expiration": "3 to 7 days"
+    },
+    {
+        "name": "summer squash",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Ethylene-emitting so should not be stored with other vegetables ",
+        "expiration": "4 to 5 days"
+    },
+    {
+        "name": "tomato",
+        "category": "fruit",
+        "proper storage": "On the counter ",
+        "tips": "1. Once ripe or cut, tomatoes should be refrigerated until eaten.",
+        "expiration": "7 days",
+        "ripen": "1. Put tomatoes into a paper bag, seal it, and wait a few days.                                    2. To accelerate the ripening process, add an apple or a banana to the bag      3. Store near a sunny window ",
+        "determine ripeness": "1, Color: red color                                                                               2. Feel: give slightly to the touch"
+    },
+    {
+        "name": "turnip",
+        "category": "vegetable",
+        "proper storage": "The fridge - crisp drawer",
+        "tips": "1. Store in a loose, open plastic bag with a damp (not wet) paper towel inside to maintain humidity.                                 2. Always remove the greens before storing to prevent dehydration                                                                     3. If roots are soft or dehydrated, trim ends and soak in lukewarm water for 10-15 minutes before using.",
+        "expiration": "2 weeks"
+    },
+    {
+        "name": "winter squash",
+        "category": "vegetable",
+        "proper storage": "In the pantry",
+        "tips": "1. Store in a cool, dry, dark place with some airflow.                                                                                                                                           2. Refrigerate cut squash cut-side down on a plate or loosely covered in a plastic wrap",
+        "expiration": "2 to 6 weeks"
+    },
+    {
+        "name": "zucchini",
+        "category": "vegetable",
+        "proper storage": "In the fridge",
+        "tips": "1. Ethylene-emitting so should not be stored with other vegetables.                                                                                                                  2. Wrap zucchini in a dry paper towel and store in a loose plastic or paper bag",
+        "expiration": "7 days"
+    },
+    {
+        "name": "crumpets",
+        "category": "bread",
+        "proper storage": "In the pantry",
+        "tips": "1. Store at room temperature in sealed bags                                                                             2. If mold is present, do not use           3. Can store in the freezer as well"
+    },
+    {
+        "name": "bagels",
+        "category": "bread",
+        "proper storage": "In the pantry",
+        "tips": "1. Store at room temperature in sealed bags                                                                             2. If mold is present, do not use           3. Can store in the freezer as well"
+    },
+    {
+        "name": "bread",
+        "category": "bread",
+        "proper storage": "In the pantry",
+        "tips": "1. Keep in a fairly cool, dark & dry place in their original packaging.                                            2. If it feels & looks the same as when you bought it, it's good to eat.                                3. If mold is present, do not use                                             4. Never put in fridge as it will make it go stale quicker!                                                                                                        5. Once a loaf is opened, fold the wrapper under the loaf or re-tie it with the best before tag or food clip.          6. Can store in the freezer as well"
+    },
+    {
+        "name": "butter",
+        "category": "packaged",
+        "proper storage": "In the fridge",
+        "tips": "1. Store in a resealable container or packaging.                                                       2. You can freeze butter in small squares & add directly to meals when cooking.                                                                                                  3. Butter can also be defrosted in the microwave - use a defrost or low setting for 15 second intervals for best results."
+    },
+    {
+        "name": "cake",
+        "category": "bread",
+        "proper storage": "In the pantry",
+        "tips": "1. Store in an airtight container at room temperature, but if storing in the fridge, wrap first                                                                            2. It is best to freeze cake in slices, put a piece of greaseproof paper between each slice, before freezing & you can defrost just what you need."
+    },
+    {
+        "name": "cereal",
+        "category": "packaged",
+        "proper storage": "In the pantry",
+        "tips": "1. Once opened, store in its original packaging sealed with a bag clip.                                             2. Alternatively use an air tight container to keep it fresh.                                                 3. Cereal can be eaten up to six months after the best before date"
+    },
+    {
+        "name": "parmesan cheese",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Store in an airtight container or seal in its original packaging                    2. To last longer, grate the whole wedge of parmesan into a container & place in the freezer- last for ages!"
+    },
+    {
+        "name": "romano cheese",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Store in an airtight container or seal in its original packaging"
+    },
+    {
+        "name": "cream cheese",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Store in its original packaging & sealed closed"
+    },
+    {
+        "name": "ricotta",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Store in its original packaging & sealed closed"
+    },
+    {
+        "name": "roquefort cheese",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Wrap in tin foil then store in fridge"
+    },
+    {
+        "name": "stilton cheese",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Wrap in tin foil then store in fridge"
+    },
+    {
+        "name": "gorgonzola cheese",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Wrap in tin foil then store in fridge"
+    },
+    {
+        "name": "brie cheese",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Wrap it up well & store in an airtight container"
+    },
+    {
+        "name": "camembert cheese",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Wrap it up well & store in an airtight container"
+    },
+    {
+        "name": "feta cheese",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Wrap it up well & store in an airtight container"
+    },
+    {
+        "name": "chickpeas",
+        "category": "packaged",
+        "proper storage": "In the pantry",
+        "tips": "1. Once opened, leftover chickpeas should be stored in an airtight container in the fridge.                                                                2. Chickpeas freeze well and should be frozen in a sealed container. You can add to soups, stews or curries straight from frozen."
+    },
+    {
+        "name": "milk",
+        "category": "dairy",
+        "proper storage": "In the fridge "
+    },
+    {
+        "name": "soy milk",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Freeze small quantities of milk before the 'use by' date. Defrost in the fridge overnight & use within 24 hours"
+    },
+    {
+        "name": "almond milk",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Freeze small quantities of milk before the 'use by' date. Defrost in the fridge overnight & use within 24 hours"
+    },
+    {
+        "name": "oat milk",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Freeze small quantities of milk before the 'use by' date. Defrost in the fridge overnight & use within 24 hours"
+    },
+    {
+        "name": "cashew milk",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Freeze small quantities of milk before the 'use by' date. Defrost in the fridge overnight & use within 24 hours"
+    },
+    {
+        "name": "coconut milk",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Freeze small quantities of milk before the 'use by' date. Defrost in the fridge overnight & use within 24 hours"
+    },
+    {
+        "name": "nuts ",
+        "category": "dry fruits",
+        "proper storage": "In the pantry",
+        "tips": "1. Store in cool, dry place                                                                                                                2. Freshen up any type of nut by toasting them on a baking sheet in the oven for 10 minutes.                                                                    3. Can store in the freezer in a freezer bag or airtight container."
+    },
+    {
+        "name": "pasta",
+        "category": "packaged",
+        "proper storage": "In the pantry",
+        "tips": "1. Store dry pasta in its original pack, sealed with a clip, or in an airtight container in a cool dry place.                                                    2. Cooked pasta can be rinsed in cold water and freeze it. These can be reheated in a microwave or in boiling water when needed.    "
+    },
+    {
+        "name": "pastries",
+        "category": "bread",
+        "proper storage": "In the pantry",
+        "tips": "1. Keep in a cool, dark & dry place in their original packaging, sealed with a bag clip.                                                                                  2. Wrap tightly & freeze. They can then be reheated in the oven straight from the freezer.                                                                         3. For slightly stale pastries: sprinkle water & put in the oven for 5 minutes to freshen up"
+    },
+    {
+        "name": "rice",
+        "category": "grains",
+        "proper storage": "In the pantry",
+        "tips": "1. Store in a cool dry place "
+    },
+    {
+        "name": "spices",
+        "category": "packaged",
+        "proper storage": "In the pantry",
+        "tips": "1. Store in an airtight container or jar, in a cool dry place & away from direct sunlight"
+    },
+    {
+        "name": "sugar",
+        "category": "packaged",
+        "proper storage": "In the pantry",
+        "tips": "1. Store in an airtight container at room temperature"
+    },
+    {
+        "name": "bulgur",
+        "category": "grains",
+        "proper storage": "In the pantry",
+        "tips": "1. Store it's original packaging, sealed with a clip, or in an airtight container in a cool dry place.                                                   2. Cooked bulgur should be served & eaten immediately.                                                                               3. If extra cooked grains: cool quickly under cold water, drain and store in the fridge or freezer in an airtight container, ideally within one hour.                                                       4. Leftover cooked whole grains can be kept in the fridge for 1 day - always re-heat until piping hot before eating."
+    },
+    {
+        "name": "freekeh",
+        "category": "grains",
+        "proper storage": "In the pantry",
+        "tips": "1. Store it's original packaging, sealed with a clip, or in an airtight container in a cool dry place.                                                   2. Cooked bulgur should be served & eaten immediately.                                                                               3. If extra cooked grains: cool quickly under cold water, drain and store in the fridge or freezer in an airtight container, ideally within one hour.                                                       4. Leftover cooked whole grains can be kept in the fridge for 1 day - always re-heat until piping hot before eating."
+    },
+    {
+        "name": "millet",
+        "category": "grains",
+        "proper storage": "In the pantry",
+        "tips": "1. Store it's original packaging, sealed with a clip, or in an airtight container in a cool dry place.                                                   2. Cooked bulgur should be served & eaten immediately.                                                                               3. If extra cooked grains: cool quickly under cold water, drain and store in the fridge or freezer in an airtight container, ideally within one hour.                                                       4. Leftover cooked whole grains can be kept in the fridge for 1 day - always re-heat until piping hot before eating."
+    },
+    {
+        "name": "yogurt",
+        "category": "dairy",
+        "proper storage": "In the fridge",
+        "tips": "1. Can store in the freezer as well"
+    }
+]
